@@ -1,5 +1,7 @@
 # Master C Programming in 6 weeks
 
+Read the book [online here](https://www.amazon.com/Master-Programming-Practical-Projects-mastery/dp/B0BVSXHK9Z?psc=1&linkCode=sl1&tag=opengenusorg-20&linkId=888a46b6ed86eecc5aa910a2671533cc&language=en_US&ref_=as_li_ss_tl&asin=B0BVSXHK9Z&revisionId=&format=4&depth=1) 📖
+
 Get your copy on Amazon: 
 
 Amazon.com (for USA and others)          |  Amazon.in (for INDIA)  |  The Book
@@ -39,6 +41,12 @@ Some of the practical projects:
 Authors (2): Aditya Chatterjee, Ue Kiao
 
 Contributors (13): Geoffrey Ziskovin, Fouotsop Fosso Patrick, Yuzhen Qu, Harshit Raj, Aswin Shailajan, Arushi Chatterjee, PV Nikhil, Arathy Rose Tony, Shreya Rastogi, Janvi Talreja, Subhash Bhandari, Abhiram Reddy Duggempudi, Nilesh Jain
+
+Published: February 2023 (Edition 1)
+
+Publisher: © OpenGenus
+
+Pages: 459
 
 ---
 
